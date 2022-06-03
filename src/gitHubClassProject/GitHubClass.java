@@ -8,7 +8,10 @@ public class GitHubClass {
 		int c = a-b;
 		System.out.println(c);
 		// This is changes from remote repostory. 
-
+ System.out.println("c");
+ 
+ 
+ 
 	}
 
 }
