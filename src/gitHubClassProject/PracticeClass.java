@@ -12,7 +12,7 @@ public class PracticeClass {
 		 */
 		
 		
-		// This is our new class and we brought some changes here. 
+		// This is our new class and we brought some changes here. Why dont we see the changes?
 	}
 
 }
