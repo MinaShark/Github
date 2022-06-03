@@ -3,5 +3,5 @@ package gitHubClassProject;
 public class NewClass {
 
 	
-	// hi 
+	// hi this class is not update yet in the remote repo
 }
